@@ -2,9 +2,9 @@
 
 ## 👋 Yo soy Jose Luis Toscano Sosa.
 
-# Consultor en servicios de integracion - Mulesoft Trainee.
+# 🖥 Consultor en servicios de integracion - Mulesoft Trainee en SPS.
 
-[Correo] (jltoscanos@spsolutions.com.mx)
+-  ✉ Correo: [jltoscanos@spsolutions.com.mx]
 
 ⚡ Soy licenciado en informatica y tecnico consultor con base en Culiacan, Sinaloa. Desde pequeño me vi interesado en la tecnologia y el ver como esta evoluciona constantemente. Y me entusiasma la idea de construir grandes proyectos y formar parte de esta evolucion.
 
