@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hola, bienvenido a mi perfil de GitHub 👋
 
+## 👋 Yo soy Jose Luis Toscano Sosa.
+
+# Consultor en servicios de integracion - Mulesoft Trainee.
+
+[Correo] (jltoscanos@spsolutions.com.mx)
+
+⚡ Soy licenciado en informatica y tecnico consultor con base en Culiacan, Sinaloa. Desde pequeño me vi interesado en la tecnologia y el ver como esta evoluciona constantemente. Y me entusiasma la idea de construir grandes proyectos y formar parte de esta evolucion.
+
+- 🔭 Actualmente trabajo en SPS
+- 🌱 Actualmente me encuentro estudiando sobre MuleSoft, APIs, Google Cloud.
 <!--
 **JLToscanosSPS/JLToscanosSPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
